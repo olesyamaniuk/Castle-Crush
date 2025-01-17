@@ -904,6 +904,7 @@ a {
   }
 
   .gallery__list {
+    margin: auto;
     width: 960px;
     padding: 43px 0 0;
   }
